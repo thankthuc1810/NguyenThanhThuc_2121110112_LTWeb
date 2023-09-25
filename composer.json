@@ -1,0 +1,12 @@
+{
+    "name": "nguyenthanhthuc/shop-trang-suc",
+    "description ": " Thiet ke website ban trang suc - Nguyen Thanh Thuc",
+    "autoload": {
+        "psr-4": {
+            "Src\\": "application/"
+        }
+    },
+    "require": {
+        "illuminate/database": "^10.24"
+    }
+}

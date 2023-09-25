@@ -1,1 +1,0 @@
-hello xin chao tat ca moi nguoi
